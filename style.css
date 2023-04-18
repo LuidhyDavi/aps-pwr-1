@@ -19,7 +19,7 @@ nav {
     text-align: center;
 }
 
-.nav_bar {
+.nav_top {
     display: block;
     list-style-type: none;
     margin: 0;
@@ -58,7 +58,7 @@ li a:hover {
     font-family: 'Roboto', sans-serif;
     margin: 20px;
     margin-left: 40px;
-    font-size: 28px;
+    font-size: 22px;
     padding: 20px;
 }
 
